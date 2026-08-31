@@ -1,4 +1,6 @@
 #include<stdio.h>
+// DSA Fundamentals - C Practice
+
 int main(){
     int arr[100], evenSum, oddSum, isPrime, primeSum, n, choice;
     printf("Enter the no element of array:\n");
